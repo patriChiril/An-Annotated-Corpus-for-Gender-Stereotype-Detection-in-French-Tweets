@@ -4,10 +4,11 @@ This repository contains the first French corpus annotated for gender stereotype
 
 Gender stereotypes are schematic and globalizing representations that attribute supposedly *natural* and *normal* characteristics (psychological traits, behaviours, social roles or activities) to women and men. Gender stereotypes have different and independent components (i.e., trait descriptors, physical characteristics, role behaviours and occupational status). Both these definitions lead us to the creation of the following 3 categories of stereotypes:
 
-* **Physical characteristics** are related to physical strength or aspect.
+* **Physical characteristics** are related to physical strength or aspect. For example, the message:
 ```
-For example, the message *Short hair for a girl it's a bad idea* conveys the stereotype *Girls must have long hair*. 
+ Short hair for a girl it's a bad idea  
 ```
+conveys the stereotype *Girls must have long hair*.
 
 * **Behavioural characteristics** are related to intelligence, emotions, sensibility or behaviour.
 ```
@@ -16,7 +17,7 @@ Am I supposed to recognize myself in the "Just Fab" ad with a screaming hysteric
 
 * **Activities** are activities, jobs, hobbies that are stereotypically assigned to women. 
 ```
-Never marry a woman who cannot cook (which implies that a woman's place is in the kitchen)
+Never marry a woman who cannot cook (which implies that a woman's place is in the kitchen).
 
 No woman understands football.
 ```
