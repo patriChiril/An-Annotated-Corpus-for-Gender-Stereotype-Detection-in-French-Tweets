@@ -30,7 +30,7 @@ Note that when a stereotype is present, it can be expressed explicitly, implicit
 
 ## Ethical Approval
 
-This dataset conforms to the Twitter Developer Agreement and Policy that allows unlimited distribution of the numeric identification number of each tweet.The data have been annotated with respect to certain types of stereotypical language, (e.g., commenting on physical appearance of a certain gender), however, we are not making any strong claims about the authors of the tweets, neither share a large numbers of tweets from the same users. 
+This dataset conforms to the Twitter Developer Agreement and Policy that allows unlimited distribution of the numeric identification number of each tweet.The data have been annotated with respect to certain types of stereotypical language, (e.g., commenting on physical appearance of a certain gender), however, we are not making any claims about the authors of the tweets, neither share a large numbers of tweets from the same users. 
 
 Additionally, if any of the users want to opt out from having their data being used for research, they can request that they be removed from the dataset (without having to delete their own messages) by sending an email to *patricia.chiril@irit.fr*.
 
