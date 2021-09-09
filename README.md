@@ -28,7 +28,7 @@ A tweet is annotated as **non-stereotype** when the tweet does not contain a ste
 Note that when a stereotype is present, it can be expressed explicitly, implicitly (i.e., one can infer a content such as *(all) women are...*) or it can be a denunciation/criticism of a gender stereotype.
 
 
-**Ethical Approval**
+## Ethical Approval
 
 This dataset conforms to the Twitter Developer Agreement and Policy that allows unlimited distribution of the numeric identification number of each tweet.The data have been annotated with respect to certain types of stereotypical language, (e.g., commenting on physical appearance of a certain gender), however, we are not making any strong claims about the authors of the tweets, neither share a large numbers of tweets from the same users. 
 
