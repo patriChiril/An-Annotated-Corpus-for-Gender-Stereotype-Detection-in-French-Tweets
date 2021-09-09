@@ -2,7 +2,7 @@
 
 This repository contains the first French corpus annotated for gender stereotype detection (see [corpus_GenderStereotypes.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Gender-Stereotype-Detection-in-French-Tweets/blob/main/corpus_GenderStereotypes.csv)) composed of about 9,200 tweets. The file [nonAnnotated.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/nonAnnotated.csv) contains all the collected data (the gender stereotype corpus is a subset of it).
 
-Gender stereotypes are schematic and globalizing representations that attribute supposedly *natural* and *normal* characteristics (psychological traits, behaviours, social roles or activities) to women and men. Gender stereotypes have different and independent components (i.e., trait descriptors, physical characteristics, role behaviours and occupational status). Both these definitions lead us to the creation of the following 3 categories of stereotypes:
+Gender stereotypes are schematic and globalizing representations that attribute supposedly *natural* and *normal* characteristics (psychological traits, behaviours, social roles or activities) to women and men. Gender stereotypes have different and independent components (i.e., trait descriptors, physical characteristics, role behaviours and occupational status). Both these definitions lead us to the creation of the three categories of stereotypes presented in the following. Below, in order to better protect the privacy of the Twitter users, instead of presenting direct quotations from the French tweets, we only provide their English translations.
 
 * **Physical characteristics** are related to physical strength or aspect. For example, the message:
 ```
