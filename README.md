@@ -1,0 +1,1 @@
+# An-Annotated-Corpus-for-Gender-Stereotype-Detection-in-French-Tweets
